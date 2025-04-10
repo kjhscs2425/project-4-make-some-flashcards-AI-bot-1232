@@ -1,0 +1,142 @@
+{
+    "What year did the Titanic sink in the Atlantic Ocean on its maiden voyage?": {
+        "attempts": [
+            {
+                "correct": true
+            }
+        ]
+    },
+    "What is the capital city of Canada?": {
+        "attempts": [
+            {
+                "correct": true
+            }
+        ]
+    },
+    "Which planet is known as the Red Planet?": {
+        "attempts": [
+            {
+                "correct": true
+            }
+        ]
+    },
+    "Who wrote the play 'Romeo and Juliet'?": {
+        "attempts": [
+            {
+                "correct": true
+            }
+        ]
+    },
+    "What is the smallest country in the world?": {
+        "attempts": [
+            {
+                "correct": false
+            }
+        ]
+    },
+    "Who developed the theory of evolution by natural selection?": {
+        "attempts": [
+            {
+                "correct": false
+            }
+        ]
+    },
+    "What is the chemical symbol for the element oxygen?": {
+        "attempts": [
+            {
+                "correct": true
+            }
+        ]
+    },
+    "In what year did World War II end?": {
+        "attempts": [
+            {
+                "correct": true
+            }
+        ]
+    },
+    "What is the largest bone in the human body?": {
+        "attempts": [
+            {
+                "correct": true
+            }
+        ]
+    },
+    "Which element has the atomic number 1?": {
+        "attempts": [
+            {
+                "correct": true
+            }
+        ]
+    },
+    "Who painted the ceiling of the Sistine Chapel?": {
+        "attempts": [
+            {
+                "correct": true
+            }
+        ]
+    },
+    "What is the longest river in the world?": {
+        "attempts": [
+            {
+                "correct": true
+            }
+        ]
+    },
+    "Who is the author of the Harry Potter book series?": {
+        "attempts": [
+            {
+                "correct": true
+            }
+        ]
+    },
+    "What is the square root of 256?": {
+        "attempts": [
+            {
+                "correct": true
+            }
+        ]
+    },
+    "Who was the first man to step on the Moon?": {
+        "attempts": [
+            {
+                "correct": false
+            }
+        ]
+    },
+    "What is the largest desert in the world?": {
+        "attempts": [
+            {
+                "correct": false
+            }
+        ]
+    },
+    "What is the chemical formula for water?": {
+        "attempts": [
+            {
+                "correct": true
+            }
+        ]
+    },
+    "Who is known as the 'Father of Modern Physics'?": {
+        "attempts": [
+            {
+                "correct": true
+            }
+        ]
+    },
+    "What is the capital city of Australia?": {
+        "attempts": [
+            {
+                "correct": true
+            }
+        ]
+    },
+    "What is the hardest natural substance on Earth?": {
+        "attempts": [
+            {
+                "correct": true
+            }
+        ]
+    }
+}

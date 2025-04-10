@@ -41,8 +41,8 @@ Q: What do fish breathe with?
 A: Gills.
 Q: What do you call a person who teaches in a school?
 A: A teacher.
-Q: What is the opposite of day?
-A: Night.
+Q: Who is the first President of the Unites States?
+A: George Washington.
 
 2. How many times will you show each flashcard the first time the user runs your flashcards program?
 
